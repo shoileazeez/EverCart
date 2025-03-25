@@ -38,7 +38,7 @@ EverCart is a full-featured e-commerce platform built with React.js (frontend) a
 ---
 
 ## **API Documentation**
-You can find the API documentation here: **[https://github.com/shoileazeez/EverCart.git]** (Edit this)
+You can find the API documentation here: **https://github.com/shoileazeez/EverCart.git**
 
 ---
 
@@ -125,14 +125,12 @@ git push origin backend
 ```sh
 git checkout backend
 git pull origin backend
-# Deploy backend using your preferred method (Heroku, render, etc.)
 ```
 
 ### **Frontend Deployment (`frontend` branch)**
 ```sh
 git checkout frontend
 git pull origin frontend
-# Deploy frontend using Vercel, Netlify, or another hosting platform
 ```
 
 ---
