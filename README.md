@@ -86,7 +86,7 @@ You can find the API documentation here: **https://github.com/shoileazeez/EverCa
 
 ### **Cloning the Repository**
 ```sh
-git clone <repo-url>
+git clone https://github.com/shoileazeez/EverCart.git
 cd evercart
 ```
 
