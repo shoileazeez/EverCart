@@ -38,7 +38,7 @@ EverCart is a full-featured e-commerce platform built with React.js (frontend) a
 ---
 
 ## **API Documentation**
-You can find the API documentation here: **[API Documentation Link]** (Edit this)
+You can find the API documentation here: **[https://github.com/shoileazeez/EverCart.git]** (Edit this)
 
 ---
 
