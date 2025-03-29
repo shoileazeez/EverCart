@@ -6,7 +6,7 @@ djangorestframework-simplejwt==5.3.1
 django-cors-headers==4.3.1
 django-filter==23.5
 whitenoise==6.6.0
-django-auth-toolkit==0.2.0
+django-auth-toolkit==3.0.1
 django-silk==5.1.0
 pytest==8.0.1
 pytest-django==4.8.0
