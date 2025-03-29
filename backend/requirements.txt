@@ -1,0 +1,13 @@
+python-dotenv==1.0.0
+dj-database-url==2.1.0
+Django==5.1.6
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.3.1
+django-filter==23.5
+whitenoise==6.6.0
+django-auth-toolkit==0.2.0
+django-silk==5.1.0
+pytest==8.0.1
+pytest-django==4.8.0
+requests==2.32.3
